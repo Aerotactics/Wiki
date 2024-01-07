@@ -6,7 +6,7 @@
     "categories": [
         {
             "label": "Reference",
-            "id": "reference",
+            "id": "mainreference",
             "home": "reference",
             "topics": [
                 {
